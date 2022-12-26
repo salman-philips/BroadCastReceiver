@@ -1,4 +1,4 @@
-package com.tutorials22.customwidgettext
+package com.tutorials22.broadcastreceiver
 
 import org.junit.Test
 

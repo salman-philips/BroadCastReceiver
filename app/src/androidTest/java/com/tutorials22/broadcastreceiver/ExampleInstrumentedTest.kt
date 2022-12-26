@@ -1,4 +1,4 @@
-package com.tutorials22.customwidgettext
+package com.tutorials22.broadcastreceiver
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
